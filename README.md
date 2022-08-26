@@ -1,7 +1,9 @@
 # Reto8
 Juan Diego Calderon Bermeo - 1000378849
+David Gomez
 
 
+Informe de refactorización
 
 Refactorización de los retos 3, 5 y 7
 
