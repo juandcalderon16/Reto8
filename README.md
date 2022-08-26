@@ -1,6 +1,6 @@
 # Reto8
 Juan Diego Calderon Bermeo - 1000378849
-David Gomez
+Jonathan David Ardila Gomez - 1014276851
 
 
 Informe de refactorización
